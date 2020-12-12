@@ -725,6 +725,7 @@ from .nationalgeographic import (
     NationalGeographicVideoIE,
     NationalGeographicTVIE,
 )
+from .naughtymachinima import NaughtyMachinimaIE
 from .naver import NaverIE
 from .nba import (
     NBAWatchEmbedIE,
